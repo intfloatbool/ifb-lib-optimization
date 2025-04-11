@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFBOptLib", "dot_net_ifb_opt_lib\IFBOptLib.csproj", "{155E48ED-E2B3-F019-451A-96AD8AB990A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFBOptLib_Tests", "dot_net_ifb_opt_lib_tests\IFBOptLib_Tests.csproj", "{7D1D6C7A-B283-7C40-EADB-2FD303644FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release_Unity|Any CPU = Release_Unity|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155E48ED-E2B3-F019-451A-96AD8AB990A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155E48ED-E2B3-F019-451A-96AD8AB990A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155E48ED-E2B3-F019-451A-96AD8AB990A2}.Release_Unity|Any CPU.ActiveCfg = Release_Unity|Any CPU
+		{155E48ED-E2B3-F019-451A-96AD8AB990A2}.Release_Unity|Any CPU.Build.0 = Release_Unity|Any CPU
+		{155E48ED-E2B3-F019-451A-96AD8AB990A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155E48ED-E2B3-F019-451A-96AD8AB990A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1D6C7A-B283-7C40-EADB-2FD303644FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1D6C7A-B283-7C40-EADB-2FD303644FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1D6C7A-B283-7C40-EADB-2FD303644FF9}.Release_Unity|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1D6C7A-B283-7C40-EADB-2FD303644FF9}.Release_Unity|Any CPU.Build.0 = Release|Any CPU
+		{7D1D6C7A-B283-7C40-EADB-2FD303644FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1D6C7A-B283-7C40-EADB-2FD303644FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68DD7228-E77B-4DAB-809D-0E23B4561EC7}
+	EndGlobalSection
+EndGlobal
