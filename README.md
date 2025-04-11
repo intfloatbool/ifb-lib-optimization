@@ -23,8 +23,8 @@ IFB-LIB — Graphics Optimization Library
 ## Features
 
 - **Cross-platform**
-    - > [Android arm64](https://link_to_android_build)
-    - > [Windows x64](https://link_to_win64_build)
+    - > [Android arm64](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-unity-sample-build-android-arm64.zip)
+    - > [Windows x64](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-unity-sample-build-win64.zip)
 
 <br>
 
@@ -32,7 +32,7 @@ IFB-LIB — Graphics Optimization Library
 - **Simple API** — `SimplifyMeshFast(...)`, `SimplifyMeshFastAsync(...)`, `MonoMeshSimplifier`
 - **Fast real-time mesh simplification** — powered by [Zeux's algorithm](https://github.com/zeux/meshoptimizer)
 - **No external dependencies required for build**
-- **[Unity support](https://link_to_unity_package)** and compatibility with other C# 3D applications
+- **[Unity support](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-unity-package.unitypackage)** and compatibility with other C# 3D applications
 
 ***
 
@@ -68,13 +68,13 @@ IFB-LIB — Graphics Optimization Library
 
 > **Unity**
 > - Requires [UniTask](https://github.com/Cysharp/UniTask)
-> - Install the [ifb-lib Unity package](https://link_to_unity_package)
+> - Install the [ifb-lib Unity package](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-unity-package.unitypackage)
 
 <br>
 
 > **Other C# Applications**
-> - Download and reference the [ifblib .NET library](https://link_to_cs_build). Use its API.
-> - The .NET library requires the native C++ library. Download and place the [ifblib C++ build](https://link_to_cpp_build) next to your executable.
+> - Download and reference the [ifblib .NET library](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-binaries.zip). Use its API.
+> - The .NET library requires the native C++ library. Download and place the [ifblib C++ build](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-binaries.zip) next to your executable.
 
 ***
 

@@ -19,8 +19,8 @@ IFB-LIB — Библиотека для оптимизации графики
 ## Возможности
 
 - **Кроссплатформенность**
-    - > [Android arm64](https://ссылка_на_android_build)
-    - > [Windows x64](https://ссылка_на_win64_build)
+    - > [Android arm64](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-unity-sample-build-android-arm64.zip)
+    - > [Windows x64](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-unity-sample-build-win64.zip)
 
 <br>
 
@@ -28,7 +28,7 @@ IFB-LIB — Библиотека для оптимизации графики
 - **Простота API** — `SimplifyMeshFast(...)`, `SimplifyMeshFastAsync(...)`, `MonoMeshSimplifier`
 - **Быстрая симплификация мешей в рантайме** — на основе алгоритмов [Zeux](https://github.com/zeux/meshoptimizer)
 - **Отсутствие зависимостей при сборке**
-- **[Поддержка Unity](https://ссылка_на_unity_package) и других C# приложений для работы с 3D**
+- **[Поддержка Unity](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-unity-package.unitypackage) и других C# приложений для работы с 3D**
 
 ***
 
@@ -64,13 +64,13 @@ IFB-LIB — Библиотека для оптимизации графики
 
 > **Unity**
 > - Требуется [UniTask](https://github.com/Cysharp/UniTask)
-> - Установите [ifb-lib Unity package](https://ссылка_На_unity_package)
+> - Установите [ifb-lib Unity package](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-unity-package.unitypackage)
 
 <br>
 
 > **Другие C# приложения**
-> - Скачайте и подключите [ifblib .NET библиотеку](https://ссылка_на_cs_сборку). Используйте её API.
-> - Для работы .NET-библиотеки требуется C++-библиотека. Скачайте и разместите [ifblib C++ библиотеку](https://ссылка_на_cpp_сборку) рядом с вашим исполняемым файлом.
+> - Скачайте и подключите [ifblib .NET библиотеку](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-binaries.zip). Используйте её API.
+> - Для работы .NET-библиотеки требуется C++-библиотека. Скачайте и разместите [ifblib C++ библиотеку](https://github.com/intfloatbool/ifb-lib-optimization/releases/download/v1.0/ifb-lib-binaries.zip) рядом с вашим исполняемым файлом.
 
 ***
 
